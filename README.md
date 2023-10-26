@@ -14,7 +14,7 @@ I'm a backend developer, passionate about technology and knowledge. Currently, I
 
 ## 📈 Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandytta&count_private=true&theme=material-palenight&show_icons=true&hide_title=true&include_all_commits=true&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandytta&count_private=true&theme=material-palenight&show_icons=true&hide_title=true&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=amandytta&theme=material-palenight&show_icons=true)](https://git.io/streak-stats)
 
 ![Snake animation](https://github.com/thaissacarrafa/thaissacarrafa/blob/output/github-contribution-grid-snake.svg)
