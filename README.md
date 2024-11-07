@@ -3,7 +3,7 @@
 
 # Hello 👋, I'm Amanda
 
-I'm a backend developer, passionate about technology and knowledge. Currently, I am studying HTML5 and CSS3 by Digital Innovation One - DiO in the Potência Tech Ifood bootcamp program. I'm looking for opportunities in the job market as a developer. I am always willing to learn new tools and improve my skills.
+I'm a backend developer, passionate about technology and knowledge. Currently, I am studying Systems Analysis and Development at the International University Center - Uninter. I'm looking for opportunities in the job market as a developer. I am always willing to learn new tools and improve my skills.
 <br>
 
 ## ⚡ Skills:
@@ -22,7 +22,7 @@ Você pode me encontrar nas seguintes redes sociais:
 
  <div> 
   <a href="https://www.linkedin.com/in/amandaa-souza/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/andy.sdo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ammy.oliver/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://discord.com/users/@amandyta/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 Ou me enviar um email para <a href = "mailto: contatoamandasouza1@gmail.com" >contatoamandasouza1@gmail.com<a/>.
