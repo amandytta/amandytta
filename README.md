@@ -8,12 +8,7 @@ I'm a backend developer, passionate about technology and knowledge. Currently, I
 
 ## ⚡ Skills:
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,git,vscode&theme=dark&perline=3" />
-  </a>
-</p>
-<br><br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,git,vscode&theme=dark&perline=3)](https://skillicons.dev)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amandytta&layout=compact&langs_count=6&count_private=true&theme=material-palenight&show_icons=true) 
 
 ## 📈 Stats:
