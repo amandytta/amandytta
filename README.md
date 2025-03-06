@@ -16,7 +16,7 @@ I'm a backend developer, passionate about technology and knowledge. Currently, I
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandytta&count_private=true&theme=material-palenight&show_icons=true&hide_title=true&layout=compact&hide=contribs)
 <br> </br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amandytta&theme=material-palenigh&show_icons=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=amandytta&theme=material-palenight&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ## 📫 Contato
 Você pode me encontrar nas seguintes redes sociais:
