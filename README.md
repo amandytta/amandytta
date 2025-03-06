@@ -8,7 +8,7 @@ I'm a backend developer, passionate about technology and knowledge. Currently, I
 
 ## ⚡ Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,git,vscode,java,mysql&theme=dark&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,git,vscode,java,mysql&theme=dark&perline=4)](https://skillicons.dev)
 <br> </br>
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amandytta&layout=compact&langs_count=6&count_private=true&theme=material-palenight&show_icons=true) 
 
@@ -23,6 +23,7 @@ Você pode me encontrar nas seguintes redes sociais:
 
  <div> 
   <a href="https://www.linkedin.com/in/amandaa-souza/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <br>
 Ou me enviar um email para <a href = "mailto: contatoamandasouza1@gmail.com" >contatoamandasouza1@gmail.com<a/>.
 
 </div>
