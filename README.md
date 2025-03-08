@@ -10,20 +10,18 @@ I'm a backend developer, passionate about technology and knowledge. Currently, I
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,git,vscode,java,mysql&theme=dark&perline=4)](https://skillicons.dev)
-<br></br>
+<br>
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amandytta&layout=compact&langs_count=6&count_private=true&theme=material-palenight&show_icons=true)
-
 <br>
 
 ## 📈 Stats:
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandytta&count_private=true&theme=material-palenight&show_icons=true&hide_title=true&layout=compact&hide=contribs)
-<br></br>
+<br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=amandytta&theme=material-palenight&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
-
 <br>
 
 ## 📫 Contato
