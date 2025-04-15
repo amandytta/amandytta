@@ -3,7 +3,7 @@
 
 # Hello 👋, I'm Amanda
 <br>
-I'm a backend developer, passionate about technology and knowledge. Currently, I am studying Systems Analysis and Development at the International University Center - Uninter. I'm looking for opportunities in the job market as a developer. I am always willing to learn new tools and improve my skills.
+I'm a developer, passionate about technology and knowledge. Currently, I am studying Systems Analysis and Development at the International University Center - Uninter. I'm looking for opportunities in the job market as a developer. I am always willing to learn new tools and improve my skills.
 <br>
 
 ## ⚡ Skills:
