@@ -12,7 +12,7 @@ I'm a developer, passionate about technology and knowledge. Currently, I am stud
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,git,vscode,java,mysql&theme=dark&perline=4)](https://skillicons.dev)
 <br>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amandytta&layout=compact&langs_count=6&count_private=true&theme=material-palenight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandytta&layout=compact&langs_count=6&count_private=true&theme=material-palenight&show_icons=true)
 <br>
 
 ## 📈 Stats:
