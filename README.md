@@ -1,6 +1,3 @@
-
-<div align="center">
-
 # Hi 👋, I'm Amanda Souza
 
 ### A passionate Backend Developer
@@ -28,6 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amandytta&show_icons=true&locale=en&layout=compact" alt="https://github.com/amandytta" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amandytta&show_icons=true&locale=en" alt="https://github.com/amandytta" /></p>
-
-</div>
-
