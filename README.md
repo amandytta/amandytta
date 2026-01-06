@@ -1,37 +1,33 @@
 
 <div align="center">
 
-# Hello 👋, I'm Amanda
-<br>
-I'm a developer, passionate about technology and knowledge. Currently, I am studying Systems Analysis and Development at the International University Center - Uninter. I'm looking for opportunities in the job market as a developer. I am always willing to learn new tools and improve my skills.
+# Hi 👋, I'm Amanda Souza
+
+### A passionate Backend Developer
+
+- 🔭 I'm currently working on **I am studying Systems Analysis and Development**
+
+- 🌱 I'm currently learning **Java and Python**
+
+- 👯 I'm looking to collaborate on **I'm looking for opportunities in the job market as a developer, and collaborate in open source projects.**
+
+- 🤝 I'm looking for help with **Learning Java**
+
+- 📫 How to reach me **contatoamandasouza1@gmail.com**
 <br>
 
-## ⚡ Skills:
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/https://github.com/amandytta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/amandytta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/amandaa-souza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amandaa-souza/" height="30" width="40" /></a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=py,git,java,mysql&theme=dark&perline=4)](https://skillicons.dev)
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandytta&layout=compact&langs_count=6&count_private=true&theme=material-palenight&show_icons=true)
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amandytta&show_icons=true&locale=en&layout=compact" alt="https://github.com/amandytta" /></p>
 
-## 📈 Stats:
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amandytta&show_icons=true&locale=en" alt="https://github.com/amandytta" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandytta&count_private=true&theme=material-palenight&show_icons=true&hide_title=true&layout=compact&hide=contribs)
-<br>
-
-## 📫 Contato
-Você pode me encontrar nas seguintes redes sociais:
- <div> 
-  <a href="https://www.linkedin.com/in/amandaa-souza/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <br>
-Ou me enviar um email para <a href = "mailto: contatoamandasouza1@gmail.com" >contatoamandasouza1@gmail.com<a/>.
-<br>
-</div>
-<br>
- Feito com :purple_heart: Por AS
- <br>
- Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>, <a href="https://github.com/tandpfun/skill-icons">Thijs.</a>
 </div>
 
